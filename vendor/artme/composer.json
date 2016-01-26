@@ -1,0 +1,11 @@
+{
+    "name": "artme/laravel-cardinity",
+    "authors": [
+        {
+            "name": "Algirdas Dumskis",
+            "email": "algirdasdum@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
